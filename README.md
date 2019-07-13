@@ -1,2 +1,4 @@
 # Shh...Secret-Messages
-Secret Messages gif
+
+
+![Example Secret Messages](secret-messages.gif)
